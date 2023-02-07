@@ -19,7 +19,7 @@ void main() {
 	switch (inputNum)
 	{
 	case 1:
-		add(2);
+		add();
 	}
 
 }
